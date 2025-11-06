@@ -1,0 +1,49 @@
+[
+  {
+    "id": "r001",
+    "name": "Belladonna",
+    "indications": [
+      "sudden high fever",
+      "hot flushes",
+      "throbbing headache",
+      "red face",
+      "sensitivity to light"
+    ],
+    "category": "Fever / Acute",
+    "potency": "30C",
+    "dosage": "1-2 pills every 4 hours until improvement",
+    "notes": "Useful in sudden onset fever with flushed face and throbbing pain.",
+    "precautions": "Not for prolonged use without practitioner advice"
+  },
+  {
+    "id": "r002",
+    "name": "Arsenicum Album",
+    "indications": [
+      "burning pains",
+      "vomiting",
+      "diarrhea",
+      "anxiety",
+      "restlessness"
+    ],
+    "category": "Gastrointestinal",
+    "potency": "30C",
+    "dosage": "1 pill every 2-3 hours for acute stage",
+    "notes": "Great for food poisoning with burning stools and restlessness.",
+    "precautions": "Seek medical care for severe dehydration"
+  },
+  {
+    "id": "r003",
+    "name": "Rhus Toxicodendron",
+    "indications": [
+      "body aches improving with movement",
+      "stiffness on first motion",
+      "arthritis pain",
+      "rash with itching"
+    ],
+    "category": "Musculoskeletal",
+    "potency": "30C",
+    "dosage": "1-2 pills twice daily",
+    "notes": "Best for stiffness that improves with continued motion.",
+    "precautions": ""
+  }
+]

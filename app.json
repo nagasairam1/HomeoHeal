@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "HomeoHeal",
+    "slug": "homeoheal",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.yourdomain.homeoheal"
+    },
+    "ios": {
+      "bundleIdentifier": "com.yourdomain.homeoheal"
+    }
+  }
+}
